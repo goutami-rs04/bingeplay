@@ -222,7 +222,7 @@ For churn detection, monthly watch-time aggregates are compared using `LAG()` an
 | 🐼 **Pandas**           | Query results & data handling |
 | 📓 **Jupyter Notebook** | Analysis & documentation      |
 | 🔗 **SQLAlchemy**       | Database connection           |
-| 🔌 **PyMySQL**          | MySQL connectivity            |
+| 🔌 **PyMySQL**          | MySQL connectivity            | 
 
 The project notebook connects to the MySQL database using **SQLAlchemy + PyMySQL** and executes queries through Pandas.
 
